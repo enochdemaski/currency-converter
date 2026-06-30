@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.hold_con{
+    background-color:blue;
+    padding: 20px;
+    border-radius: 10px;
+    width: 26em;
+    margin-top: 20%;
+}
+
+.hold_con input{
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+    font-size: 14px;
+    width: 15em;
+    font-weight: bold;
+}
+
+.hold_con button{
+    width: 30%;
+    margin-left: 10%;
+    border-radius: 10px;
+    padding: 10px;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.result.active{
+    background-color: #000;
+    color: #fff;
+    margin-top: 5%;
+    width: 45%;
+    border-radius: 10px;
+    padding: 3%;
+}
