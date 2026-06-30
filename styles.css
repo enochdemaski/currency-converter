@@ -12,10 +12,9 @@ body{
 
 .main_con{
     margin-top: 20%;
-    padding: 20px;
+    padding: 10px;
     width: 90%;
     border: 1px solid #000;
-    /* display: flex; */
     justify-content: center;
     align-items: center;
     height: 40vh;
@@ -24,7 +23,7 @@ body{
     background-color:blue;
     padding: 20px;
     border-radius: 10px;
-    width: 26em;
+    width: 23em;
     margin-top: 20%;
 }
 
@@ -35,7 +34,7 @@ body{
     border: none;
     text-transform: capitalize;
     font-size: 14px;
-    width: 15em;
+    width: 13em;
     font-weight: bold;
 }
 
